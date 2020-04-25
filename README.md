@@ -1,2 +1,2 @@
-# progate
-Reposotiry untuk menyimpan project progate
+# web landing
+penggunaanb dengan boostrap
