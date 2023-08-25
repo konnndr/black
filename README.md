@@ -1,3 +1,3 @@
 # web landing.
 penggunaanb dengan boostrap
-Mobey 10000000 mln
+Mobey 100000 mln
